@@ -6,7 +6,25 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-leah0727/leah0727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Education**
+- 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea, Bachelor of History
+- 🏫 September 2022 – June 2023 : York St John University, York, U.K., Exchange program
+
+**Research Experience**
+- 🔍 March 2024 – August 2024: Undergraduate Research Assistant, HK+ Artificial Intelligence Humanities, Chung-Ang University 
+
+**Projects**
+- 💻 August 2024 
+- 💻
+- 💻
+
+**Awards**
+- 🏆 Outstanding Research Award, Chung-Ang University Artificial Intelligence Humanities Conference
+
+
+**Tech Stack**
+- 
+
+**Contacts**
+- 
+-
