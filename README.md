@@ -1,6 +1,10 @@
 
 
 ![Yeong-eun Ra](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Yeong-eun%20Ra&fontSize=40&animation=twinkling)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
 
 **👋 Hi, I’m @Yeong-eun Ra**
 
