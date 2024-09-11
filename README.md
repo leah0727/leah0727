@@ -24,21 +24,12 @@
 **Awards**
 - 🏆 Outstanding Research Award, HK+ Artificial Intelligence Humanities, Chung-Ang University 
 
-🛠 Stacks
+ ** Stacks **
 
-<div align=center> 
-  
+- 🛠
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <br>
-  
-
+ 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  
-  <br>
   
   <img src="https://img.shields.io/badge/R-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   
-  <br>
-</div>
-
