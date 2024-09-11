@@ -15,11 +15,15 @@
 **Research Experience**
 - 🔍 March 2024 – August 2024: Undergraduate Research Assistant, HK+ Artificial Intelligence Humanities, Chung-Ang University 
 
+
 **Projects**
-- 💻 August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly 
+- 💻 August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly
 - 💻 August 2024: Image Quality Assessment & Captioning
-- 💻 March 2024 – June 2024: Automated Essay Scoring
-- 💻 February 2024: Turnstile detection mobile application for the Visually Impaired
+- 💻 March 2024 – August 2024: [Emotions and Memories of Holocaust Survivors: Testimony Analysis Using GPT](https://github.com/leah0727/Artificial-Intelligence-Humanities)
+- 💻 March 2024 – June 2024: [Automated Essay Scoring](https://github.com/leah0727/automated-essay-scoring)
+- 💻 February 2024: [Turnstile Detection Mobile Application for the Visually Impaired](https://github.com/leah0727/turnstile-detection-)
+
+
 
 **Awards**
 - 🏆 Outstanding Research Award, HK+ Artificial Intelligence Humanities, Chung-Ang University 
