@@ -7,8 +7,8 @@
 - ⚡ Fun fact: ...
 
 **Education**
-- 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea, Bachelor of History
-- 🏫 September 2022 – June 2023 : York St John University, York, U.K., Exchange program
+ 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea, Bachelor of History
+ 🏫 September 2022 – June 2023 : York St John University, York, U.K., Exchange program
 
 **Research Experience**
 - 🔍 March 2024 – August 2024: Undergraduate Research Assistant, HK+ Artificial Intelligence Humanities, Chung-Ang University 
