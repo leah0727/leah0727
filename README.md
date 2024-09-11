@@ -1,6 +1,6 @@
 
 
-![Yeong-eun Ra](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![Yeong-eun Ra](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Yeong-eun%20Ra&fontSize=40&animation=twinkling)
 
 **👋 Hi, I’m @Yeong-eun Ra**
 
