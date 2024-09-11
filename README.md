@@ -24,7 +24,21 @@
 **Awards**
 - 🏆 Outstanding Research Award, HK+ Artificial Intelligence Humanities, Chung-Ang University 
 
-**Tech Stack**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🛠 Stacks
+
+<div align=center> 
+  
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+  <br>
+  
+
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/R-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  
+  <br>
+</div>
 
