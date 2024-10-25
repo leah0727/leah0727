@@ -17,7 +17,7 @@
 
 
 **Projects**
-- 💻 August 2024 – October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon
+- 💻 October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon
 - 💻 August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly
 - 💻 August 2024: Image Quality Assessment & Captioning
 - 💻 March 2024 – August 2024: Emotions and Memories of Holocaust Survivors: Testimony Analysis Using GPT
