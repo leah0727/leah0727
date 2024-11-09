@@ -17,6 +17,7 @@
 
 
 **Projects**
+- 💻 November 2024: Kaggle Competition Hackathon: Comprehensive Analysis and Price Prediction of Used Cars
 - 💻 October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon
 - 💻 August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly
 - 💻 August 2024: Image Quality Assessment & Captioning
@@ -27,6 +28,7 @@
 
 **Awards**
 - 🏆 Outstanding Research Award, HK+ Artificial Intelligence Humanities, Chung-Ang University 
+- 🏆 Excellence Award, 1st DART-B x CUAI Official Exchange Kaggle Competition
 
 **Stacks** <br>
 <span>
