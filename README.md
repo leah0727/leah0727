@@ -17,6 +17,8 @@
 
 
 **Projects**
+- 💻 October 2024 – November 2024: H&E Stained Histopathological Image Analysis for Gene Expression Prediction 	
+- 💻 November 2024: Analysis of Youth Activity Program Distribution and Accessibility Improvement
 - 💻 November 2024: Kaggle Competition Hackathon: Comprehensive Analysis and Price Prediction of Used Cars
 - 💻 October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon
 - 💻 August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly
