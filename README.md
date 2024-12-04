@@ -21,9 +21,9 @@
 - 💻 [November 2024: Kaggle Competition Hackathon: Comprehensive Analysis and Price Prediction of Used Cars](https://github.com/leah0727/hackathon1109-)
 - 💻 [October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon](https://github.com/leah0727/Taxi-recommendation-)
 - 💻 [August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly](https://github.com/leah0727/idea-chatbot)
-- 💻 [August 2024: Image Quality Assessment & Captioning](https://github.com/leah0727/image-quality-captioning)
+- 💻 [August 2024: Image Quality Assessment & Captioning](https://github.com/leah0727/transformer-image-captioning)
 - 💻 [March 2024 – August 2024: Emotions and Memories of Holocaust Survivors: Testimony Analysis Using GPT](https://github.com/leah0727/Artificial-Intelligence-Humanities)
-- 💻 [March 2024 – June 2024: Automated Essay Scoring](https://github.com/leah0727/transformer-image-captioning)
+- 💻 [March 2024 – June 2024: Automated Essay Scoring](https://github.com/leah0727/automated-essay-scoring)
 - 💻 [February 2024: Turnstile Detection Mobile Application for the Visually Impaired](https://github.com/leah0727/Turnstile-detection-)
 
 **Awards**
