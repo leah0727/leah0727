@@ -16,12 +16,13 @@
 - 🔍 March 2024 – August 2024: Undergraduate Research Assistant, HK+ Artificial Intelligence Humanities, Chung-Ang University 
 
 **Projects**
+- 💻 [Feburary 2025 - Present: LG AIMERS : AI Model for Predicting Pregnancy Success Using Infertility Treatment Data](https://github.com/leah0727/lgaimers6)
 - 💻 [October 2024 – November 2024: H&E Stained Histopathological Image Analysis for Gene Expression Prediction](https://github.com/leah0727/mai-)
 - 💻 [November 2024: Analysis of Youth Activity Program Distribution and Accessibility Improvement](https://github.com/leah0727/youth-)
 - 💻 [November 2024: Kaggle Competition Hackathon: Comprehensive Analysis and Price Prediction of Used Cars](https://github.com/leah0727/hackathon1109-)
 - 💻 [October 2024: Optimized Route Recommendation System for Taxi Drivers in Daejeon](https://github.com/leah0727/Taxi-recommendation-)
 - 💻 [August 2024: Chatbot-Based Mental Health Monitoring System for the Elderly](https://github.com/leah0727/idea-chatbot)
-- 💻 [August 2024: Image Quality Assessment & Captioning](https://github.com/leah0727/transformer-image-captioning)
+- 💻 [August 2024: SAMSUNG Image Quality Assessment & Captioning](https://github.com/leah0727/transformer-image-captioning)
 - 💻 [March 2024 – August 2024: Emotions and Memories of Holocaust Survivors: Testimony Analysis Using GPT](https://github.com/leah0727/Artificial-Intelligence-Humanities)
 - 💻 [March 2024 – June 2024: Automated Essay Scoring](https://github.com/leah0727/automated-essay-scoring)
 - 💻 [February 2024: Turnstile Detection Mobile Application for the Visually Impaired](https://github.com/leah0727/Turnstile-detection-)
