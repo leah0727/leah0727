@@ -9,7 +9,7 @@
 **👋 Hi, I’m @Yeong-eun Ra**
 
 **Education**
-- 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea, Bachelor of History
+- 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea
 - 🏫 September 2022 – June 2023 : York St John University, York, U.K., Exchange program
 
 **Research Experience**
