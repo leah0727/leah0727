@@ -27,10 +27,6 @@
 - 💻 [March 2024 – June 2024: Automated Essay Scoring](https://github.com/leah0727/automated-essay-scoring)
 - 💻 [February 2024: Turnstile Detection Mobile Application for the Visually Impaired](https://github.com/leah0727/Turnstile-detection-)
 
-**Awards**
-- 🏆 Outstanding Research Award, HK+ Artificial Intelligence Humanities, Chung-Ang University 
-- 🏆 Excellence Award, 1st DART-B x CUAI Official Exchange Kaggle Competition
-
 **Stacks** <br>
 <span>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
