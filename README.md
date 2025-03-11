@@ -16,7 +16,7 @@
 - 🔍 March 2024 – August 2024: Undergraduate Research Assistant, HK+ Artificial Intelligence Humanities, Chung-Ang University 
 
 **Projects**
-- 💻 [Feburary 2025 - Present: LG AIMERS : AI Model for Predicting Pregnancy Success Using Infertility Treatment Data](https://github.com/leah0727/lgaimers6)
+- 💻 Feburary 2025 - Present: LG AIMERS : AI Model for Predicting Pregnancy Success Using Infertility Treatment Data
 - 💻 [October 2024 – November 2024: H&E Stained Histopathological Image Analysis for Gene Expression Prediction](https://github.com/leah0727/mai-)
 - 💻 [November 2024: Analysis of Youth Activity Program Distribution and Accessibility Improvement](https://github.com/leah0727/youth-)
 - 💻 [November 2024: Kaggle Competition Hackathon: Comprehensive Analysis and Price Prediction of Used Cars](https://github.com/leah0727/hackathon1109-)
