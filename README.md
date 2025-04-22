@@ -9,6 +9,7 @@
 **👋 Hi, I’m @Yeong-eun Ra**
 
 **Education**
+- 🏫 August 2025 – August 2026 : University of Connecticut, M.S. Data Science, CT, U.S 
 - 🏫 March 2020 – February 2025 : Chung-Ang University, Seoul, Korea
 - 🏫 September 2022 – June 2023 : York St John University, York, U.K., Exchange program
 
