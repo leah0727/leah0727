@@ -21,13 +21,13 @@ I approach healthcare, insurance, and other industry challenges with a focus on 
 
 
 ## 🛠 Skills & Tools
-- Programming Languages: Python, R, MySQL, C, HTML, CSS
-- Visualization Tools: Tableau, Power BI, WordCloud, Folium
-- Machine Learning & Statistical Methods: Linear Regression, Logistic Regression, K-Means Clustering, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Model & Seed Ensembles, StatsModels, Optuna
-- Deep Learning Frameworks: TensorFlow, Keras, PyTorch
-- Natural Language Processing: transformers, NLTK, gTTS, Albert, Electra, DeBERTa
-- Computer Vision & Advanced Models: OpenCV, YOLOv8, ViT, ResNet, SENet, EfficientNet, Inception-ResNet-V2
-- Tools & Software: Git, Docker, Roboflow
+- **Programming Languages**: Python, R, MySQL, C, HTML, CSS
+- **Visualization Tools**: Tableau, Power BI, WordCloud, Folium
+- **Machine Learning & Statistical Methods**: Linear Regression, Logistic Regression, K-Means Clustering, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Model & Seed Ensembles, StatsModels, Optuna
+- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch
+- **Natural Language Processing**: transformers, NLTK, gTTS, Albert, Electra, DeBERTa
+- **Computer Vision & Advanced Models**: OpenCV, YOLOv8, ViT, ResNet, SENet, EfficientNet, Inception-ResNet-V2
+- **Tools & Software**: Git, Docker, Roboflow
 
 
 ## 🧩 Projects
