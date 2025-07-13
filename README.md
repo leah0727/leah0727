@@ -52,6 +52,6 @@ I approach healthcare, insurance, and other industry challenges with a focus on 
 I enjoy working with professionals across fields to solve problems using data and grow together. Feel free to reach out — I’d love to exchange ideas and collaborate!
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/yeongeun-ra/)  
-- 📧 yeongeunra2025@gmail.com 
+- 📧 jrj24004@uconn.edu
 
 💼 Actively seeking Summer 2026 Data Science Internship opportunities! 
