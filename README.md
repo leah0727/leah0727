@@ -4,7 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeong-eun%20Ra&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 
-## 📊 Data Scientist | 🧠 Data-Driven Problem Solver with Statistical Insight | 💬 Persistent & Goal-Driven Team Player
+## 🧠 Data-Driven Problem Solver with Statistical Insight
+## Analytical & Logical Thinking | Problem-Solving Ability | Collaboration & Communication
 
 ## 🧠 About Me
 - **📈 Solving Problems with Statistical Logic and Data Analysis**
