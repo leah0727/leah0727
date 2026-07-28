@@ -41,4 +41,3 @@ I enjoy working with professionals across fields to solve problems using data an
 - 📎 [LinkedIn](https://www.linkedin.com/in/yeongeun-ra/)  
 - 📧 jrj24004@uconn.edu
 
-💼 Actively seeking Summer 2026 Data Science Internship opportunities! 
